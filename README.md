@@ -8,15 +8,15 @@
   * [Machine Learning Engineer Nanodegree](#machine-learning-engineer-nanodegree)
   * [Tech Entrepreneur Nanodegree](#tech-entrepreneur-nanodegree)
   * [Predictive Analytics for Business Nanodegree](#predictive-analytics-for-business-nanodegree)
-  * [Deep Learning Nanodegree](#deep-learning-nanodegree)
   * [Intro to Programming Nanodegree](#intro-to-programming-nanodegree)
-  * [Self-Driving Car Engineer] (https://www.udacity.com/drive)
-  * [Artificial Intelligence Engineer] (https://www.udacity.com/ai)
-  * [Become a Digital Marketer] https://in.udacity.com/course/digital-marketing-nanodegree--nd018/
-  * [Robotics] https://www.udacity.com/robotics
+  * [Deep Learning Nanodegree](#deep-learning-nanodegree)
+  * [Self-Driving Car Engineer Nanodegree] (#self-driving-car-engineer-nanodegree)
+  * [Artificial Intelligence Engineer Nanodegree] (#artificial-intelligence-engineer-nanodegree)
+  * [Become a Digital Marketer Nanodegree] (#become-a-digital-marketer-nanodegree)
+  * [Robotics Nanodegree] (#robotics-nanodegree)
 
 
-## Data Analyst Nanodegree: [Class](https://in.udacity.com/course/data-analyst-nanodegree--nd002/), [mygithub]()
+## Data Analyst Nanodegree: [Link](https://in.udacity.com/course/data-analyst-nanodegree--nd002/), [git]()
 
 Learn to clean messy data, uncover patterns and insights, make predictions using machine learning.
 
@@ -32,7 +32,7 @@ Learn to clean messy data, uncover patterns and insights, make predictions using
   10. [A/B Testing](https://www.udacity.com/courses/ab-testing--ud257)
 
 
-## Machine Learning Engineer Nanodegree: [Class](https://in.udacity.com/course/machine-learning-engineer-nanodegree--nd009/), [mygithub]()
+## Machine Learning Engineer Nanodegree: [Link](https://in.udacity.com/course/machine-learning-engineer-nanodegree--nd009/), [git]()
 
 This program will teach you machine learning, & apply predictive models to data in fields like finance, healthcare, education...
 
@@ -45,7 +45,7 @@ This program will teach you machine learning, & apply predictive models to data 
   7. [Machine Learning for Trading](https://www.udacity.com/courses/machine-learning-for-trading--ud501)
 
 
-## Tech Entrepreneur Nanodegree: [Class](), [mygithub]() 
+## Tech Entrepreneur Nanodegree: [Link](), [git]() 
 
 #### _No longer listed on Udacity_
 
@@ -58,7 +58,7 @@ Built in partnership with Google, this program mixes theory & practice to show h
   5. [Get Your Startup Started](https://www.udacity.com/courses/get-your-startup-started--ud806)
 
 
-## Predictive Analytics for Business Nanodegree: [Class](https://in.udacity.com/course/predictive-analytics-for-business--nd008/), [mygithub]()
+## Predictive Analytics for Business Nanodegree: [Link](https://in.udacity.com/course/predictive-analytics-for-business--nd008/), [git]()
 
 You’ll master the most important predictive techniques, work with leading tools in the space.
 
@@ -71,4 +71,14 @@ You’ll master the most important predictive techniques, work with leading tool
   7. [Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
   
   
-## Intro to Programming Nanodegree: [link](https://in.udacity.com/course/intro-to-programming-nanodegree--nd000/), [mygithub](https://github.com/dtflaneur/udacity-dl-nandeg)
+## Intro to Programming Nanodegree: [Link](https://in.udacity.com/course/intro-to-programming-nanodegree--nd000/), [git]()
+
+## Deep Learning Nanodegree: [Link](https://www.udacity.com/degrees/deep-learning-nanodegree-foundation--nd101), [git]()
+
+## Self-Driving Car Engineer Nanodegree: [Link](https://www.udacity.com/drive), [git]()
+
+## Artificial Intelligence Engineer Nanodegree: [Link](https://www.udacity.com/ai), [git]()
+
+## Become a Digital Marketer Nanodegree: [Link](https://in.udacity.com/course/digital-marketing-nanodegree--nd018/), [git]()
+
+## Robotics Nanodegree: [Link](https://www.udacity.com/robotics), [git]()
