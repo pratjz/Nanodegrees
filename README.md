@@ -17,7 +17,7 @@
 
 ---
 ### Data Analyst Nanodegree
-[Link](https://in.udacity.com/course/data-analyst-nanodegree--nd002/), [git]()
+[Class](https://in.udacity.com/course/data-analyst-nanodegree--nd002/),   [github]()
 
 Learn to clean messy data, uncover patterns and insights, make predictions using machine learning.
 
