@@ -34,7 +34,7 @@ Learn to clean messy data, uncover patterns and insights, make predictions using
 
 
 ## Machine Learning Engineer Nanodegree
-[Class](https://in.udacity.com/course/machine-learning-engineer-nanodegree--nd009/), [Github]()
+[Class](https://in.udacity.com/course/machine-learning-engineer-nanodegree--nd009/), [Github](https://github.com/dtflaneur/udacity-ml-nandeg)
 
 This program will teach you machine learning, & apply predictive models to data in fields like finance, healthcare, education...
 
@@ -48,7 +48,7 @@ This program will teach you machine learning, & apply predictive models to data 
 
 
 ## Tech Entrepreneur Nanodegree
-#### _No longer listed on Udacity_
+#### _No longer listed on Udacity_ [Github](https://github.com/dtflaneur/udacity-tech-entrepreneur-nandeg)
 
 Built in partnership with Google, this program mixes theory & practice to show how to transform ideas into market-ready products.
 
@@ -60,7 +60,7 @@ Built in partnership with Google, this program mixes theory & practice to show h
 
 
 ## Predictive Analytics for Business Nanodegree
-[Class](https://in.udacity.com/course/predictive-analytics-for-business--nd008/), [Github]()
+[Class](https://in.udacity.com/course/predictive-analytics-for-business--nd008/), [Github](https://github.com/dtflaneur/udacity-predictive-analytics-nandeg)
 
 You’ll master the most important predictive techniques, work with leading tools in the space.
 
@@ -74,19 +74,19 @@ You’ll master the most important predictive techniques, work with leading tool
   
   
 ## Intro to Programming Nanodegree
-[Class](https://in.udacity.com/course/intro-to-programming-nanodegree--nd000/), [Github]()
+[Class](https://in.udacity.com/course/intro-to-programming-nanodegree--nd000/), [Github](https://github.com/dtflaneur/udacity-intro-to-programming-nandeg)
 
 ## Deep Learning Nanodegree
-[Class](https://www.udacity.com/degrees/deep-learning-nanodegree-foundation--nd101), [Github]()
+[Class](https://www.udacity.com/degrees/deep-learning-nanodegree-foundation--nd101), [Github](https://github.com/dtflaneur/udacity-dl-nandeg)
 
 ## Self-Driving Car Engineer Nanodegree
-[Class](https://www.udacity.com/drive), [Github]()
+[Class](https://www.udacity.com/drive), [Github](https://github.com/dtflaneur/udacity-self-driving-car-nandeg)
 
 ## Artificial Intelligence Engineer Nanodegree
-[Class](https://www.udacity.com/ai), [Github]()
+[Class](https://www.udacity.com/ai), [Github](https://github.com/dtflaneur/udacity-ai-nandeg)
 
 ## Digital Marketer Nanodegree
-[Class](https://in.udacity.com/course/digital-marketing-nanodegree--nd018/), [Github]()
+[Class](https://in.udacity.com/course/digital-marketing-nanodegree--nd018/), [Github](https://github.com/dtflaneur/udacity-digital-marketer-nandeg)
 
 ## Robotics Nanodegree
-[Class](https://www.udacity.com/robotics), [Github]()
+[Class](https://www.udacity.com/robotics), [Github](https://github.com/dtflaneur/udacity-robotics-nandeg)
