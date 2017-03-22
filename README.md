@@ -1,8 +1,8 @@
-# Udacity Nanodegrees in my todo list
+# Udacity Nanodegrees & Respexctive Free classes
 
-[Udacity](https://www.udacity.com/) offers some great courses in their [Nanodegree](https://www.udacity.com/nanodegree) programs. If you don't have the money, and/or just don't want to pay for them, you can take each of the courses for free.
+[Udacity](https://www.udacity.com/) offers some great courses in their [Nanodegree](https://www.udacity.com/nanodegree) programs. Apart from which many more free courses are also present.
 
-## Table of Contents
+## Index
 
   * [Data Analyst Nanodegree](#data-analyst-nanodegree)
   * [Machine Learning Engineer Nanodegree](#machine-learning-engineer-nanodegree)
@@ -10,8 +10,8 @@
   * [Predictive Analytics for Business Nanodegree](#predictive-analytics-for-business-nanodegree)
   * [Deep Learning Nanodegree](#deep-learning-nanodegree)
   * [Intro to Programming Nanodegree](#intro-to-programming-nanodegree)
-  * [Self-Driving Car Engineer] https://www.udacity.com/drive
-  * [Artificial Intelligence Engineer] https://www.udacity.com/ai
+  * [Self-Driving Car Engineer] (https://www.udacity.com/drive)
+  * [Artificial Intelligence Engineer] (https://www.udacity.com/ai)
   * [Become a Digital Marketer] https://in.udacity.com/course/digital-marketing-nanodegree--nd018/
   * [Robotics] https://www.udacity.com/robotics
 
