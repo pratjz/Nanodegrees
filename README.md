@@ -12,7 +12,7 @@
   * [Deep Learning Nanodegree](#deep-learning-nanodegree)
   * [Self-Driving Car Engineer Nanodegree](#self-driving-car-engineer-nanodegree)
   * [Artificial Intelligence Engineer Nanodegree](#artificial-intelligence-engineer-nanodegree)
-  * [Become a Digital Marketer Nanodegree](#become-a-digital-marketer-nanodegree)
+  * [Digital Marketer Nanodegree](#digital-marketer-nanodegree)
   * [Robotics Nanodegree](#robotics-nanodegree)
 
   
@@ -85,7 +85,7 @@ You’ll master the most important predictive techniques, work with leading tool
 ## Artificial Intelligence Engineer Nanodegree
 [Class](https://www.udacity.com/ai), [Github]()
 
-## Become a Digital Marketer Nanodegree
+## Digital Marketer Nanodegree
 [Class](https://in.udacity.com/course/digital-marketing-nanodegree--nd018/), [Github]()
 
 ## Robotics Nanodegree
