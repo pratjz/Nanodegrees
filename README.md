@@ -1,4 +1,4 @@
-# Udacity Nanodegrees & Respexctive Free classes
+# Udacity Nanodegrees & Accompanying Free classes
 
 [Udacity](https://www.udacity.com/) offers some great courses in their [Nanodegree](https://www.udacity.com/nanodegree) programs. Apart from which many more free courses are also present.
 
@@ -17,8 +17,7 @@
 
 ---
 ### Data Analyst Nanodegree
-
-: [Link](https://in.udacity.com/course/data-analyst-nanodegree--nd002/), [git]()
+[Link](https://in.udacity.com/course/data-analyst-nanodegree--nd002/), [git]()
 
 Learn to clean messy data, uncover patterns and insights, make predictions using machine learning.
 
