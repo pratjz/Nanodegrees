@@ -16,8 +16,8 @@
   * [Robotics Nanodegree](#robotics-nanodegree)
 
   
-### Data Analyst Nanodegree
-[Class](https://in.udacity.com/course/data-analyst-nanodegree--nd002/),   [github]()
+## Data Analyst Nanodegree
+[Class](https://in.udacity.com/course/data-analyst-nanodegree--nd002/),   [Github]()
 
 Learn to clean messy data, uncover patterns and insights, make predictions using machine learning.
 
@@ -33,7 +33,8 @@ Learn to clean messy data, uncover patterns and insights, make predictions using
   10. [A/B Testing](https://www.udacity.com/courses/ab-testing--ud257)
 
 
-## Machine Learning Engineer Nanodegree: [Link](https://in.udacity.com/course/machine-learning-engineer-nanodegree--nd009/), [git]()
+## Machine Learning Engineer Nanodegree
+[Class](https://in.udacity.com/course/machine-learning-engineer-nanodegree--nd009/), [Github]()
 
 This program will teach you machine learning, & apply predictive models to data in fields like finance, healthcare, education...
 
